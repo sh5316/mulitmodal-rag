@@ -62,7 +62,7 @@ PDF 한 권을 통째로 질문에 답할 수 있는 지식원으로 바꿉니�
 
 이 파이프라인이 답할 수 있는 질문의 형태입니다.
 
-![Uploading 스크린샷 2026-11-06 175600.png…]()
+<img width="1008" height="647" alt="스크린샷 2026-11-06 175600" src="https://github.com/user-attachments/assets/92d962c7-12c8-48e4-b7f9-855ff56b267a" />
 
 
 ---
